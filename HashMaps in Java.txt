@@ -1,8 +1,5 @@
 HashMaps in Java 
 
-
-
-
 You are given a function with the namesolvewhich takes the following parameters
 int n;
 String str;
@@ -29,7 +26,6 @@ a->1
 b->1
 c->1
 d->1
-
 
 
 Solution-->
