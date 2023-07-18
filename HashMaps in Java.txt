@@ -16,11 +16,11 @@ You don't have to take the input or the output. Just complete the function, as e
 Output
 You don't have to take the input or the output. Just complete the function, as explained in the problem statement
 
-Sample Input 1 
+Sample Input 
 
 4
 abcd
-Sample Output 1
+Sample Output 
 
 a->1
 b->1
